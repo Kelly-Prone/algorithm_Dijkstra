@@ -1,6 +1,8 @@
 # Algorithm Dijkstra
 Developed a route that does the least cost calculation using Dijkstra's algorithm.
 
+-> First of all, follow the image "rota" for a better understanding of the activity.
+
 ### Description of Activity:
 
 An application driver has been given a run to perform. The current location of the driver is represented below by vertex number 1 (one) and the race is at vertex number 5 (five). 
