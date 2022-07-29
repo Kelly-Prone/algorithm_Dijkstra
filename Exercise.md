@@ -23,3 +23,6 @@ RA 204570-5 = In case of 6 digits, add the digit 1 at the end of 2045701
 (1-3) = 0 * 6,596 = 0 
 (2-4) = 4 * 6,596 = 26,384 
 
+More Information:
+I used the website "replit.com" to compile:
+https://replit.com/@Kelly-Prone/mapaed1oficial#main.c
